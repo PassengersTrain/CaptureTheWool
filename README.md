@@ -1,3 +1,4 @@
+# UltraCTW modification for OGoats CTW server
 # CaptureTheWool
 UltraCTW with some changes
 
